@@ -1,6 +1,8 @@
 # N-body simulation
 
-N-body simulation for the Computational Astrophysics course at the University of Zürich, with a random number of (super)particles. The animate.py file will create an animatin of the simulation.
+![Simulation Thumbnail](end.gif)
+
+N-body simulation for the Computational Astrophysics course at the University of Zürich, with a number of random (super)particles. The animate.py file will create an animatin of the simulation.
 
 ## Requirements
 
