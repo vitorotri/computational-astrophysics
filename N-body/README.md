@@ -2,7 +2,7 @@
 
 ![Simulation Thumbnail](end.gif)
 
-N-body simulation for the Computational Astrophysics course at the University of Zürich, with a number of random (super)particles. The animate.py file will create an animatin of the simulation.
+N-body simulation for the Computational Astrophysics course at the University of Zürich, with a number of random (super)particles. The animate.py file will create a mp4 video of the simulation.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ On the Linux terminal, type:
 	$ pip install numpy matplotlib pillow
 ```
 
-The use of nvc is because the code uses open-acc for the parallel computations using the naive algorithm for the forces.
+The use of nvc is because the code uses open-acc for the parallel computations when using the naive algorithm for the forces.
 
 ## Usage
 
